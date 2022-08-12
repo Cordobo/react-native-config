@@ -1,5 +1,5 @@
 {
-  "name": "react-native-config",
+  "name": "hb-react-native-config",
   "version": "1.4.7",
   "description": "Expose config variables to React Native apps",
   "keywords": [
@@ -28,7 +28,7 @@
     "windows/",
     "index.js",
     "index.d.ts",
-    "react-native-config.podspec",
+    "hb-react-native-config.podspec",
     "!.*ignore"
   ],
   "types": "./index.d.ts",
